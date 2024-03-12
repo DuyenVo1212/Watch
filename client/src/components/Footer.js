@@ -55,7 +55,7 @@ export const Footer = () => {
             <div className="info">
               <p>
                 <a
-                  href="https://www.facebook.com/ducphap1311"
+                  href="https://www.facebook.com/profile.php?id=100009091201694"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -65,7 +65,7 @@ export const Footer = () => {
               </p>
               <p>
                 <a
-                  href="https://www.instagram.com/ducphapho/"
+                  href="https://www.instagram.com/"
                   target="_blank"
                   rel="noreferrer"
                 >
